@@ -2,7 +2,6 @@ package com.example.prueba;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.graphics.Color;
 import android.os.Bundle;
 
 import android.view.View;
@@ -111,37 +110,3 @@ public class MainActivity extends AppCompatActivity {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//if (rb10.isChecked() == true) {
-       // if (Valor1 > Valor2){
-
-
-        //tv2.setText("El numero mayor es " + Valor1);
-//
-
-       // }else if (Valor1 == Valor2){
-
-        //tv2.setText("Ambos numeros son iguales");
-
-        //}else
-       // tv2.setText("El numero mayor es " + Valor2);
