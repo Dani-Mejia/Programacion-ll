@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
         et1 = (EditText) findViewById(R.id.txt_Num1);
         et2 = (EditText) findViewById(R.id.txt_Num2);
         tv1 = (TextView) findViewById(R.id.textView_Respuesta);
-        //tv2 = (TextView) findViewById(R.id.tv_mayor);
         rb1 = (RadioButton) findViewById(R.id.rb_suma);
         rb2 = (RadioButton) findViewById(R.id.rb_resta);
         rb3 = (RadioButton) findViewById(R.id.rb_multiplicacion);
